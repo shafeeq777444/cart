@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iphon x"
+    },
+    {
+      "id": "2",
+      "name": "iphon 11"
+    },
+    {
+      "id": "3",
+      "name": "iphon 12"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "iphon 12"
+    },
+    {
+      "id": "1",
+      "name": "iphon x"
+    },
+    {
+      "id": "3",
+      "name": "iphon 12"
+    }
+  ]
+}
